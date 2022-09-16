@@ -3,10 +3,10 @@ import axios from 'axios';
 
 let host = 'http://shop.projectsedu.com';
 let goodsUrl = "http://kong.soleaf.xyz"
-let orderUrl = "http://219.228.135.107:8000"
-let userUrl = "http://219.228.135.107:8000"
-let userOpUrl = "http://219.228.135.107:8000"
-export const ossUrl = "http://219.228.135.107:8000"
+let orderUrl = "http://kong.soleaf.xyz"
+let userUrl = "http://kong.soleaf.xyz"
+let userOpUrl = "http://kong.soleaf.xyz"
+export const ossUrl = "http://kong.soleaf.xyz" // http://219.228.135.107:8000
 
 // let host = 'http://127.0.0.1:8000';
 
